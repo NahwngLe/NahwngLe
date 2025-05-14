@@ -13,7 +13,8 @@ I'm an AI Engineer with a passion for developing intelligent systems and streaml
 
 ## 📌 Featured Projects
 
-- [**Project for MLFLOW**](https://github.com/NahwngLe/mlflow-network-anomaly-cicids2017.git): A brief description of Project A.
+- [**Project for MLFLOW**](https://github.com/NahwngLe/mlflow-network-anomaly-cicids2017.git): Network Anomaly Detection with Python & MLflow on CICIDS2017
+This project applies machine learning to detect anomalies in network traffic using the CICIDS2017 dataset. MLflow is used to manage the model lifecycle, from experiment tracking to deployment, enabling reproducible and scalable MLOps workflows.
 
 ## 📈 GitHub Stats
 
