@@ -13,7 +13,7 @@ I'm an AI Engineer with a passion for developing intelligent systems and streaml
 
 ## 📌 Featured Projects
 
-- [**Project A**](https://github.com/NahwngLe/project-a): A brief description of Project A.
+- [**Project for MLFLOW**](https://github.com/NahwngLe/mlflow-network-anomaly-cicids2017.git): A brief description of Project A.
 
 ## 📈 GitHub Stats
 
