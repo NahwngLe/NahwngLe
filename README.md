@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Nhan Le
+# 👋 Hello, I'm Nhan Le Quy
 
 ## 🧑‍💻 About Me
 
