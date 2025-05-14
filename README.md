@@ -19,12 +19,10 @@ I'm an AI Engineer with a passion for developing intelligent systems and streaml
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NahwngLe&layout=compact&theme=radical)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NahwngLe&show_icons=true&theme=radical)
-
 ## 📫 Contact Me
 
 - 📧 Email: [nhan.lequy12@gmail.com](mailto:nhan.lequy12@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/nahwngle]([https://www.linkedin.com/in/nahwngle](https://www.linkedin.com/in/nh%C3%A2n-l%C3%AA-qu%C3%BD-09088933a/))
+- 💼 LinkedIn: [linkedin.com/in/nhanlequy](https://www.linkedin.com/in/nhanlequy/)
 
 ---
 
