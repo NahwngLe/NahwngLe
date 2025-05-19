@@ -16,7 +16,7 @@ I'm an AI Engineer with a passion for developing intelligent systems and streaml
 - [**Project for MLFLOW**](https://github.com/NahwngLe/mlflow-network-anomaly-cicids2017.git): Network Anomaly Detection with Python & MLflow on CICIDS2017
 This project applies machine learning to detect anomalies in network traffic using the CICIDS2017 dataset. MLflow is used to manage the model lifecycle, from experiment tracking to deployment, enabling reproducible and scalable MLOps workflows.
 
--[**Prometheus & Grafana Monitoring Stack**](https://github.com/NahwngLe/prometheus-grafana): A ready-to-use monitoring stack that integrates Prometheus and Grafana via Docker Compose. This setup allows you to collect, store, and visualize metrics from your applications or infrastructure efficiently.
+- [**Prometheus & Grafana Monitoring Stack**](https://github.com/NahwngLe/prometheus-grafana): A ready-to-use monitoring stack that integrates Prometheus and Grafana via Docker Compose. This setup allows you to collect, store, and visualize metrics from your applications or infrastructure efficiently.
 
 - [**Explainable AI seminar**](https://github.com/NahwngLe/XAI-in-CV): This project uses Streamlit, TensorFlow, and various visualization techniques such as Grad-CAM and Saliency to classify images and visualize the model's decision-making process. The app leverages MobileNetV2 for image classification.
 
