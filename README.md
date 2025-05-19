@@ -9,7 +9,7 @@ I'm an AI Engineer with a passion for developing intelligent systems and streaml
 - **Languages:** JavaScript, Python.
 - **Web Development:** HTML, CSS, React, TailwingCss, Node.js
 - **Databases:** MsSQLSever, MongoDB
-- **Tools & Platforms:** Git, Docker, Visual Studio Code
+- **Tools & Platforms:** Git, Docker, Visual Studio Code, Pycharm
 
 ## 📌 Featured Projects
 
