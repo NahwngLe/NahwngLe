@@ -13,8 +13,10 @@ I'm an AI Engineer with a passion for developing intelligent systems and streaml
 
 ## 📌 Featured Projects
 
-- [**Project for MLFLOW**](https://github.com/NahwngLe/mlflow-network-anomaly-cicids2017.git): Network Anomaly Detection with Python & MLflow on CICIDS2017
+- [**MLops**](https://github.com/NahwngLe/mlflow-network-anomaly-cicids2017.git): Network Anomaly Detection with Python & MLflow on CICIDS2017
 This project applies machine learning to detect anomalies in network traffic using the CICIDS2017 dataset. MLflow is used to manage the model lifecycle, from experiment tracking to deployment, enabling reproducible and scalable MLOps workflows.
+
+- [**Zebra Crossing Detection**](https://github.com/NahwngLe/ZebraCrossing_Detection.git): A deep learning-based computer vision project to detect zebra crossings in images using a custom-trained object detection model. The model is trained using Resnet50 and fine-tuned on a curated dataset to enhance real-world performance in urban and smart city environments.
 
 - [**Prometheus & Grafana Monitoring Stack**](https://github.com/NahwngLe/prometheus-grafana): A ready-to-use monitoring stack that integrates Prometheus and Grafana via Docker Compose. This setup allows you to collect, store, and visualize metrics from your applications or infrastructure efficiently.
 
