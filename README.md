@@ -7,8 +7,9 @@ I'm an AI Engineer with a passion for developing intelligent systems and streaml
 ## 🛠️ Skills
 
 - **Languages:** JavaScript, Python.
-- **Web Development:** HTML, CSS, React, TailwingCss, Node.js
-- **Databases:** MsSQLSever, MongoDB
+- **Web Development:** HTML, CSS, React, TailwingCss, Node.js.
+- **AI Based:** Numpy, Pandas, Tensorflow, Mlflow, Machine Learning, Deep Learning.
+- **Databases:** MsSQLSever, MongoDB, Pinecone.
 - **Tools & Platforms:** Git, Docker, Visual Studio Code, Pycharm
 
 ## 📌 Featured Projects
