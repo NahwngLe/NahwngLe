@@ -24,7 +24,14 @@ This project applies machine learning to detect anomalies in network traffic usi
 
 ## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NahwngLe&layout=compact&theme=radical)
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+
+### 📚 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=github_dark)
+
+### 🏆 Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical)
 
 ## 📫 Contact Me
 
